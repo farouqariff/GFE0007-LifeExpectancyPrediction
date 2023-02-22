@@ -16,6 +16,12 @@ The data was collected from WHO and United Nations website with the help of Deek
 
 ## Exploratory Data Analysis
 
+### About Dataset
+glimpse() function is used to display the characteristic of every column in a dataset
+![image](https://user-images.githubusercontent.com/68151938/220604917-83939310-9e06-4bab-9747-c1ed4d88a994.png)
+
 ### Descriptive Statistics
+descr() function from summarytools package is used to display descriptive statistics on every column of a dataset.
+![image](https://user-images.githubusercontent.com/68151938/220604289-6c65e593-fd66-4e0c-b1ce-9dfcd77c50d4.png)
 
 ### Data Cleaning
