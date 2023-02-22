@@ -1,10 +1,11 @@
 # Packages that need to be installed
 install.packages("tidyverse")
-install.packages("tidyverse")
-install.packages("tidyverse")
-install.packages("tidyverse")
-install.packages("tidyverse")
-install.packages("tidyverse")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("reshape")
+install.packages("DescTools")
+install.packages("GGally")
+install.packages("summarytools")
 
 # Invoke library packages
 library(tidyverse)
