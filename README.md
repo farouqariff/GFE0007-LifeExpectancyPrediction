@@ -39,4 +39,12 @@ Figure above shows outliers on the columns using boxplot. These outliers problem
 ![image](https://user-images.githubusercontent.com/68151938/220608669-bb7c9f16-decd-4dc7-80a9-7aa880fc01e9.png)
 
 ## Data Visualization
+Charts and graphs can be found from Scatterplot folder and Boxplot folder.
 
+## Linear Regression Model
+![image](https://user-images.githubusercontent.com/68151938/220609982-10e94ef4-5d82-4597-91eb-915646ced843.png)
+![image](https://user-images.githubusercontent.com/68151938/220610079-ce06d9e3-e142-4370-a342-ac34e83bad7c.png)
+![image](https://user-images.githubusercontent.com/68151938/220610143-0d96ea4b-2737-4f8a-bf0e-9e5675dc5c62.png)
+
+## Conclusion
+The equation from the linear regression model is, y = 43.9822X + 41.0992. Therefore, the conclusion that can be made from this project is, “life expectancy expects to increase by one unit when income composition of resources increases by 43.9822 unit”.
