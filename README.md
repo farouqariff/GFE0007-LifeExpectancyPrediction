@@ -1,7 +1,7 @@
-# GFE00007 Assignment: Life Expectancy Prediction
+# GFE0007 Assignment: Life Expectancy Prediction
 
 ## Introduction
-This is the repository for submission for GFE00007 Data Analytics for Beginner project assignment for Semester 1, 2022/2023 session. This project is required to: 
+This is the repository for submission for GFE0007 Data Analytics for Beginner project assignment for Semester 1, 2022/2023 session. This project is required to: 
 1. come up a hypothesis
 2. data collection and do Exploratory Data Analysis (EDA)
 3. visualize with graphs and charts
