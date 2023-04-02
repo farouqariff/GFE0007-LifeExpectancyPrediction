@@ -1,1 +1,1 @@
-# GFE0007-LifeExpectancyPrediction
+# GFE0007 Assignment: Life Expectancy Prediction
